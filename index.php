@@ -73,7 +73,17 @@ header("location:http:index.php");
     <?php include('includes/header.php');?>
 
 <section class="menu-section">
-<iframe src='https://webchat.botframework.com/embed/homeapplangservice-bot?s=QTo3OW4B30Q.vXQpz9bd3j7p1OAQ06NvjoRRPaAmuPkRD1XT7AJQvtQ' class="fram"></iframe>
+<div class="dec">
+        <br>
+        <img src="h.jfif" style="width:50px;height:50px;float:left;margin-left: 9px;border-radius:40px;margin-top: -13px;">
+        <h>WELCOME TO HOME BOOKING</h>
+      
+        <p>
+          Do Booking Your Dream Home<br>
+          And Complete Your Dream
+        </p>
+        <iframe src='https://webchat.botframework.com/embed/homeapplangservice-bot?s=QTo3OW4B30Q.vXQpz9bd3j7p1OAQ06NvjoRRPaAmuPkRD1XT7AJQvtQ' class="fram"></iframe>
+      </div>
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
