@@ -1,30 +1,29 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://home-booking.azurewebsites.net/">Language Studio- Home Booking Web App Using Azure AI ChatBot Service.</b></a>
+<h2>Project Title:</h2><b><a href="http://172.214.90.61/userreg/">Language Studio- Education Eduenroll Web App Using Azure AI ChatBot Service.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://home-booking.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> http://172.214.90.61/userreg/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
-<b>Github Repository URL :</b> https://github.com/moremk/Magicbus.git <br>
-<b>Industry :</b> Lifestyle and Technology<br>
+<b>Github Repository URL :</b> https://github.com/shahfaisalgani/eduenroll <br>
+<b>Industry :</b> Education and Technology<br>
 <h2>Azure Services Used</h2>
 <h3>
 Core Azure Services : <br>
-1. Azure App Service <br>
+1. Azure Virtual Machine Service <br>
 2. Azure MySQL Database <br> <br>
 Azure AI Service <br>
 1. Azure AI ChatBot Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">Welcome to our Home Booking Web App! Find your dream home with ease using our intuitive interface. Browse through a vast selection of properties, book viewings, and secure your ideal space effortlessly. Need assistance? Our AI-powered chatbot is here 24/7 to answer your queries and guide you through the booking process. Start your journey towards your dream home today.</p>
+<p align="justify">Design and implement a secure user registration system for a web service, ensuring password hashing, secure login, and profile management. Prioritize user experience and scalability while adhering to data protection regulations.</p>
 <h2>Project Description</h2>
-<p align="justify">Our project is a Home Booking Web App featuring an AI chatbot for seamless property search, booking, and customer support. Users can easily find, view, and book properties, while the chatbot provides personalized assistance 24/7. The platform aims to revolutionize the property booking process, catering to both users and property owners/managers with intuitive features and efficient functionality.
+<p align="justify">The project entails creating a robust user registration system for a web service, emphasizing security and user experience. It involves implementing features like password hashing, secure login, and profile management while adhering to data protection regulations. The system aims for scalability and seamless user interaction.
 </p><br>
 <b>Key Features :</b>
 <ul>
-    <li>Home Booking Web App integrates an AI-powered chatbot</li>
+    <li>Education Eduenroll Web App integrates an AI-powered chatbot</li>
     <li>User-Friendly Interface</li>
-    <li>guide users through the booking process</li>
-    <li>Azure App Service Hosting</li>
+    <li>Guide users through the login process and registration process</li>
     <li>Azure MySQL Database for Efficient Data Management</li>
 </ul>
 <b>Future Enhancements :</b><br>
