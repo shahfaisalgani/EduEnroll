@@ -33,7 +33,8 @@ error_reporting(0);
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="#" style="color:#fff; font-size:24px;4px; line-height:24px; ">
-                      EduEnroll
+
+                   Online Course Registration
                 </a>
 
             </div>

@@ -36,54 +36,11 @@ header("location:http:index.php");
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <link href="assets/css/font-awesome.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />
-    <style>
-  p{
-    color: aliceblue;
-    margin-top: 27rem;
-    font-size: 40px;
-    font-family: 'Times New Roman', Times, serif;
-   
-  }
-  @media screen and (max-width: 600px) {
-        p{
-          margin-top: 19rem;
-          margin-left: 10rem;
-          font-size: 20px;
-        }
-      }
-      .fram{
-        min-width: 300px;
-        width: 150px; 
-        min-height: 250px;
-        float:right;
-        margin-top: -100px;
-        margin-right: 50px;
-      }
-      @media screen and (max-width: 600px) {
-        .fram{
-          margin-top: 100px;
-          float:right;
-          margin-right: 6px;
-        }
-      }
-     
-</style>
 </head>
 <body>
     <?php include('includes/header.php');?>
 
 <section class="menu-section">
-<div class="dec">
-        <br>
-        <img src="h.jfif" style="width:50px;height:50px;float:left;margin-left: 9px;border-radius:40px;margin-top: -13px;">
-        <h>WELCOME TO HOME BOOKING</h>
-      
-        <p>
-          Do Booking Your Dream Home<br>
-          And Complete Your Dream
-        </p>
-        <iframe src='https://webchat.botframework.com/embed/homeapplangservice-bot?s=QTo3OW4B30Q.vXQpz9bd3j7p1OAQ06NvjoRRPaAmuPkRD1XT7AJQvtQ' class="fram"></iframe>
-      </div>
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
