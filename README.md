@@ -10,9 +10,9 @@
 <h3>
 Core Azure Services : <br>
 1. Azure Virtual Machine Service <br>
-2. Azure MySQL Database <br> <br>
+2. Azure MySQL Database <br>
 3. Azure AI Service <br>
-1. Azure AI ChatBot Service
+* Azure AI ChatBot Service
 </h3>
 <h2>Problem Statement</h2>
 <p align="justify">Design and implement a secure user registration system for a web service, ensuring password hashing, secure login, and profile management. Prioritize user experience and scalability while adhering to data protection regulations.</p>
