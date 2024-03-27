@@ -1,8 +1,8 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="http://172.214.90.61/userreg/">Language Studio- Education Eduenroll Web App Using Azure AI ChatBot Service.</b></a>
+<h2>Project Title:</h2><b><a href="http://172.208.59.106/eduenroll/">Language Studio- Education Eduenroll Web App Using Azure AI ChatBot Service.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> http://172.214.90.61/userreg/ <br>
+<b>Project Demo URL :</b> http://172.208.59.106/eduenroll/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
 <b>Github Repository URL :</b> https://github.com/shahfaisalgani/eduenroll <br>
 <b>Industry :</b> Education and Technology<br>
@@ -11,7 +11,7 @@
 Core Azure Services : <br>
 1. Azure Virtual Machine Service <br>
 2. Azure MySQL Database <br> <br>
-Azure AI Service <br>
+3. Azure AI Service <br>
 1. Azure AI ChatBot Service
 </h3>
 <h2>Problem Statement</h2>
@@ -27,45 +27,69 @@ Azure AI Service <br>
     <li>Azure MySQL Database for Efficient Data Management</li>
 </ul>
 <b>Future Enhancements :</b><br>
-<p align="justify">Implement real-time property availability updates, streamline the booking process with AI-driven chatbots for personalized assistance, introduce virtual property tours for immersive experiences, integrate smart payment options for seamless transactions, and enhance user experience with intuitive search filters and recommendations.</p>
+<p align="justify">Enhance the user experience and functionality of the Education Eduenroll Web App by implementing cutting-edge features.</p>
 <h2>Core Azure Services</h2>
-<b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
+<b>Azure AI ChatBot Service :</b><br><p align="justify"><br>Integrate Azure AI ChatBot Service to streamline the enrollment process, offering personalized assistance to students for course selection, application procedures, and general inquiries.Enhance the user interface with intuitive search filters and recommendations, enabling students to easily find courses based on their interests, academic requirements, and career goals.</p>
 
-<b>Azure MySQL Database :</b><br><p align="justify">Azure MySQL Database offers scalable, secure, and reliable hosting for MySQL databases in the cloud. It provides high availability, robust security features, automated backups, and compatibility with existing MySQL applications. With monitoring and management tools, integration with Azure services, and flexible pricing options, it enables businesses to build and manage modern applications efficiently.</p>
+<h2>Azure Virtual Machine Service</h2>
+<b>Azure Virtual Machine Service :</b><br><p align="justify">Azure Virtual Machine Service provides scalable and flexible virtual machines (VMs) for hosting the Education Eduenroll Web App. With Azure VMs, you can deploy various operating systems and applications, ensuring compatibility with your project requirements.Azure VMs enable efficient scaling based on workload demands, ensuring optimal performance for the web application.</p>
+
+<h2>Azure AI Service</h2>
+<b>Azure MySQL Database :</b><br><p align="justify">Utilize Azure MySQL Database to provide scalable, secure, and reliable hosting for the Education Eduenroll Web App's database needs in the cloud. This service offers high availability, robust security features, automated backups, and seamless compatibility with existing MySQL applications, ensuring the integrity and accessibility of critical data.</p>
+
 <h2>Azure AI Service</h2>
 <b>Azure AI ChatBot Service :</b><br><br><p align="justify">Azure AI Chatbot Service is a platform on Microsoft Azure for building and deploying AI-powered chatbots. It offers natural language processing, multi-channel support, integration with cognitive services, scalability, analytics, and security features. Developers can create intelligent chatbots that understand user intents, provide personalized responses, and engage users across various channels.</p>
+
 <h2>Other Azure Technologies / Services</h2>
-<p align="justify">Azure provides a wide range of cloud services for building, deploying, and managing applications and infrastructure.</p>
-<b>Azure Monitor :</b><p align="justify"><b>Azure Monitor offers real-time performance metrics for monitoring the health and performance of a home booking chatbot AI service deployed on Azure. It provides insights into resource utilization, response times, and availability, facilitating proactive monitoring and troubleshooting. With customizable dashboards and alerts, Azure Monitor ensures optimal performance and reliability of the chatbot service, enhancing user experience and satisfaction.<br>
-<b>Proactive Alerts :</b> For a home booking chatbot AI service deployed on Azure, proactive alerts through Azure Monitor can ensure seamless operation and enhanced user experience. </p>
-<b>Azure Application Insights :</b><p align="justify">
-<b>User Interaction Insights :</b> Gaining insights into user interactions is crucial for optimizing a home booking system utilizing Azure AI Chatbot.<br>
-<b>Diagnostics Precision :</b> In a home booking system utilizing Azure AI Chatbot, diagnostics precision ensures efficient troubleshooting and maintenance.
+<p align="justify">Azure provides a diverse array of cloud services tailored for building, deploying, and managing applications and infrastructure.</p>
+
+<b>Azure Monitor:</b><p align="justify">Azure Monitor delivers real-time performance metrics essential for monitoring the health and performance of the Education Eduenroll Web App deployed on Azure. It furnishes insights into resource utilization, response times, and availability, facilitating proactive monitoring and troubleshooting. With customizable dashboards and alerts, Azure Monitor guarantees optimal performance and reliability of the web app, thus augmenting user experience and satisfaction.</p>
+
+<b>Proactive Alerts:</b><p align="justify">For the Education Eduenroll Web App deployed on Azure, proactive alerts via Azure Monitor can ensure smooth operation and elevate user experience.</p>
+
+<b>Azure Application Insights:</b><p align="justify">Azure Application Insights is instrumental in gaining insights into user interactions vital for optimizing the Education Eduenroll Web App.</p>
+
+<b>User Interaction Insights:</b><p align="justify">Understanding user interactions is pivotal for refining the functionality and user experience of the Education Eduenroll Web App.</p>
+
+<b>Diagnostics Precision:</b><p align="justify">In the Education Eduenroll Web App ecosystem, diagnostics precision guarantees effective troubleshooting and maintenance, ensuring smooth operation of the platform.</p>
 
 <h2>Screenshots</h2>
-<h3>Azure App Service</h3>
-<b>Description :</b><p align="justify">Azure offers a range of services that can be utilized for home booking applications, including AI services for chatbots. By leveraging Azure's AI capabilities, developers can create intelligent chatbots that can assist users in booking homes, answering queries, and providing personalized recommendations.</p>
-<img src="https://github.com/moremk/Magicbus/blob/main/app.png" alt="azure-app-service"></img><br>
+<h3>Azure Virtual Machine Service</h3>
+<b>Description :</b><p align="justify">Azure provides a versatile array of services suitable for hosting various applications, including virtual machines ideal for the Education Eduenroll Web App. With Azure Virtual Machine Service, developers can deploy and manage virtual machines tailored to the specific needs of the education sector. This includes hosting web applications, databases, and other essential components of the Eduenroll platform.</p>
+<img src="https://github.com/shahfaisalgani/eduenroll/blob/main/virtualmachine.png" alt="Azure Virtual Machine Service"></img><br>
+
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> Azure Database for MySQL is a fully managed database service provided by Microsoft Azure that allows users to deploy, manage, and scale MySQL relational databases in the cloud. This service offers high availability, automatic backups, and security features to ensure the reliability and performance of MySQL databases.</p>
-<img src="https://github.com/moremk/Magicbus/blob/main/mysql.png" alt="azure-mysql-db-service"></img><br>
+<img src="https://github.com/shahfaisalgani/eduenroll/blob/main/mysqldatabase.png" alt="azure-mysql-db-service"></img><br>
+
 <h3>Azure AI ChatBot Service</h3>
 <b>Description :</b><p align="justify">Azure AI Chatbot Service is a comprehensive platform provided by Microsoft Azure that enables developers to build, deploy, and manage intelligent chatbots using artificial intelligence capabilities. This service leverages natural language processing, machine learning, and cognitive services to create conversational interfaces that can interact with users in a human-like manner. </p>
-<img src="https://github.com/moremk/Magicbus/blob/main/chatbot.png" alt="azure-translator-ai-service"></img><br>
+<img src="https://github.com/shahfaisalgani/eduenroll/blob/main/chatbot.png" alt="azure-translator-ai-service"></img><br>
+
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/moremk/Magicbus/blob/main/hazure.png" alt="final-project-demo"></img>
-<img src="https://github.com/moremk/Magicbus/blob/main/bazure.png" alt="final-project-demo"></img>
-<img src="https://github.com/moremk/Magicbus/blob/main/aazure.png" alt="final-project-demo"></img>
-<img src="https://github.com/moremk/Magicbus/blob/main/cazure.png" alt="final-project-demo"></img>
+<img src="https://github.com/shahfaisalgani/eduenroll/blob/main/1.png" alt="final-project-demo"></img>
+<img src="https://github.com/shahfaisalgani/eduenroll/blob/main/2.png" alt="final-project-demo"></img>
+<img src="https://github.com/shahfaisalgani/eduenroll/blob/main/3.png" alt="final-project-demo"></img>
+<img src="https://github.com/shahfaisalgani/eduenroll/blob/main/4.png" alt="final-project-demo"></img>
+<img src="https://github.com/shahfaisalgani/eduenroll/blob/main/5.png" alt="final-project-demo"></img>
+<img src="https://github.com/shahfaisalgani/eduenroll/blob/main/6.png" alt="final-project-demo"></img>
+<img src="https://github.com/shahfaisalgani/eduenroll/blob/main/7.png" alt="final-project-demo"></img>
+
+
 
 <h3>Resource Visualizer</h3>
-<img src="https://github.com/moremk/Magicbus/blob/main/rvazure.png" alt="resource-display"></img>
+<img src="https://github.com/shahfaisalgani/eduenroll/blob/main/resourcegroup.png" alt="resource-display"></img>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
-For the final project, the goal is to develop a home booking web application that incorporates an AI chatbot to enhance user experience and streamline the booking process. The AI chatbot will be integrated into the web app to assist users in searching for homes, answering queries, providing personalized recommendations, and facilitating the booking process.</p>
+The final project objective is to develop an Education Eduenroll Web Application that revolutionizes the enrollment experience through innovative technologies. This application will incorporate an Azure AI ChatBot to provide personalized assistance, streamline the enrollment process, and enhance user engagement.</p>
 <p align="justify">
-The web app will also utilize Azure services for hosting, scalability, and security to ensure a reliable and efficient platform for users to book homes seamlessly. The project aims to showcase the integration of AI technology into a practical application, demonstrating the potential of AI chatbots in improving customer engagement and simplifying complex tasks such as home booking.
+The AI ChatBot will be seamlessly integrated into the web application, assisting students with course selection, application procedures, and inquiries. Additionally, it will offer virtual campus tours for immersive experiences and real-time updates on course availability.</p>
+<p align="justify">
+Powered by Azure services, including Azure Virtual Machine Service for hosting and scalability, Azure MySQL Database for secure data management, and Azure Monitor for proactive monitoring, the Education Eduenroll Web App will offer a reliable, efficient, and secure platform for students to explore courses, enroll seamlessly, and interact with the institution.</p>
+<p align="justify">
+By showcasing the integration of AI technology and Azure services, this project aims to demonstrate the transformative potential of modern technologies in education, enhancing accessibility, engagement, and efficiency in the enrollment process.</p>
+
 </p> <br>
-</h2><b><a href="https://home-booking.azurewebsites.net/">Language Studio- Home Booking Web App Using Azure AI ChatBot Service.</b></a>
+</h2><b><a href="http://172.208.59.106/eduenroll/">Language Studio- Education Eduenroll Web App Using Azure AI ChatBot Service.</b></a>
