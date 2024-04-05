@@ -3,7 +3,7 @@
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> http://172.208.59.106/eduenroll/ <br>
-<b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
+<b>Demo Video URL :</b> https://drive.google.com/file/d/1nJxVCZ-c44NJsZyCW4Te0mflya86btm1/view?usp=drivesdk <br>
 <b>Github Repository URL :</b> https://github.com/shahfaisalgani/eduenroll <br>
 <b>Industry :</b> Education and Technology<br>
 <h2>Azure Services Used</h2>
